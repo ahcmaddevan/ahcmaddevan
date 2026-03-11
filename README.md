@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&multiline=false&width=600&lines=Building+Technology+that+Matters+%F0%9F%9A%80;Founder+%26+CEO+of+Lynovra+Technologies;Code+the+Future+%E2%9C%A8;Surabaya%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&multiline=false&width=600&lines=Building+Technology+that+Matters+%F0%9F%9A%80;Founder+%26+CEO+of+Lynovra+Technology+Solutions;Code+the+Future+%E2%9C%A8;Surabaya%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,7 +26,7 @@
 ```typescript
 const devan = {
   name     : "Ahcmad Devan Wahyu Ferdinand",
-  role     : "Founder & CEO @ Lynovra Technologies Solution",
+  role     : "Founder & CEO @ Lynovra Technology Solution",
   location : "Surabaya, Indonesia 🇮🇩",
   founded  : 2024,
   mission  : "Menjadikan teknologi sebagai penggerak kemajuan yang nyata",
